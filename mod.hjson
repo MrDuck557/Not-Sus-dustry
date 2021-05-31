@@ -1,0 +1,9 @@
+name: "not-sus-dustry"
+displayName: "Totally not sus"
+author: MrDuck557
+description: "This will not change anything important."
+version: "0"
+minGameVersion: "126.2"
+dependencies: []
+hidden: false
+repo: MrDuck557/not-sus-dustry
